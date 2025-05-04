@@ -1,6 +1,8 @@
 ## Not working on college proxy
 -- how to know if its not working on your netowork ?
-# run - curl https://api.github.com/users/kalim-Asim
+
+# run - 
+```curl https://api.github.com/users/kalim-Asim```
 
 ## To Run
 ```
